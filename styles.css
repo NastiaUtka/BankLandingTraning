@@ -1,0 +1,131 @@
+.header {
+    /*rgb(204, 235, 236)
+    rgb(232,241,243)*/
+    background: linear-gradient(to right, rgb(204, 235, 236), rgb(232, 241, 243));
+}
+
+.cente-header {
+    margin-left: 120px;
+    margin-top: 70px;
+    color: rgb(44, 43, 43);
+    position: absolute;
+    display: inline;
+    font-size: 23px;
+    background: 1000px;
+}
+
+.h6-home {
+    position: absolute;
+    display: inline;
+    margin-top: 75px;
+    margin-left: 620px;
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+}
+
+.h6-home:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.h6-account {
+    position: absolute;
+    display: inline;
+    margin-top: 75px;
+    margin-left: 720px;
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+}
+
+.h6-account:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.h6-features {
+    position: absolute;
+    display: inline;
+    margin-top: 75px;
+    margin-left: 820px;
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+}
+
+.h6-features:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.h6-developers {
+    position: absolute;
+    display: inline;
+    margin-top: 75px;
+    margin-left: 920px;
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+}
+
+.h6-developers:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.h6-pricing {
+    position: absolute;
+    display: inline;
+    margin-top: 75px;
+    margin-left: 1028px;
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+}
+
+.h6-pricing:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.h6-support {
+    position: absolute;
+    display: inline;
+    margin-top: 75px;
+    margin-left: 1120px;
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+}
+
+.h6-support:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+.butt-get-started-header {
+    position: absolute;
+    display: inline;
+    margin-top: 65px;
+    margin-left: 1230px;
+    color: rgb(248, 244, 244);
+    font-size: 13px;
+    border-radius: 30px;
+    width: 120px;
+    height: 37px;
+    background-color: rgb(49, 214, 206);
+}
+
+.butt-get-started-header:hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
