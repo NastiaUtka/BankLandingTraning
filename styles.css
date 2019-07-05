@@ -204,11 +204,100 @@
     
     .butt-join-us:hover {
         cursor: pointer;
+    }
+    
+     ::-webkit-input-placeholder {
+        font-size: 12px;
+    }
+    
+    .partners {
+        -webkit-filter: grayscale(86%);
+        -moz-filter: grayscale(86%);
+        -ms-filter: grayscale(86%);
+        -o-filter: grayscale(86%);
+        filter: grayscale(86%);
+        filter: gray;
+        /* IE 6-9 */
+    }
+    
+    .img-samsung {
+        margin-top: 50px;
+        margin-left: 80px;
+        display: inline;
+    }
+    
+    .img-samsung:hover {
+        cursor: pointer;
         -webkit-transform: scale(1.1);
         -moz-transform: scale(1.1);
         -o-transform: scale(1.1);
     }
     
-     ::-webkit-input-placeholder {
-        font-size: 12px;
+    .img-sprint {
+        margin-top: 50px;
+        margin-left: 80px;
+        display: inline;
+    }
+    
+    .img-sprint:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+    }
+    
+    .img-vodafone {
+        margin-top: 40px;
+        margin-left: 80px;
+        display: inline;
+        position: absolute;
+    }
+    
+    .img-vodafone:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+    }
+    
+    .img-verizon {
+        margin-top: 55px;
+        margin-left: 300px;
+        display: inline;
+        position: absolute;
+    }
+    
+    .img-verizon:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+    }
+    
+    .img-at-t {
+        margin-top: 50px;
+        margin-left: 490px;
+        display: inline;
+        position: absolute;
+    }
+    
+    .img-at-t:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+    }
+    
+    .img-metropcs {
+        margin-top: 13px;
+        margin-left: 700px;
+        display: inline;
+        position: absolute;
+    }
+    
+    img.img-metropcs:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
     }
