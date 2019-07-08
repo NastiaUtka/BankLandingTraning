@@ -301,3 +301,47 @@
         -moz-transform: scale(1.1);
         -o-transform: scale(1.1);
     }
+    
+    .h4-card-content {
+        margin-left: 200px;
+        margin-top: 140px;
+        font-size: 18px;
+        color: rgb(63, 61, 61);
+    }
+    
+    .h1-card-content {
+        margin-top: -10px;
+        color: rgb(44, 43, 43);
+        font-size: 29px;
+        margin-left: 200px;
+        position: absolute;
+    }
+    
+    .p-card-content-text {
+        margin-top: 57px;
+        margin-left: 200px;
+        color: rgb(75, 74, 74);
+        font-size: 15px;
+        position: absolute;
+    }
+    
+    .butt-get-started-content {
+        position: absolute;
+        display: inline;
+        margin-top: 150px;
+        margin-left: 200px;
+        color: rgb(248, 244, 244);
+        font-size: 13px;
+        border-radius: 30px;
+        width: 120px;
+        height: 42px;
+        background-color: rgb(49, 214, 206);
+        border: none;
+    }
+    
+    .butt-get-started-content:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+    }
