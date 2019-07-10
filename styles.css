@@ -140,12 +140,6 @@
         margin-left: 120px;
     }
     
-    .img-cat:hover {
-        -webkit-transform: scale(1.7);
-        -ms-transform: scale(1.7);
-        transform: scale(1.7);
-    }
-    
     .h5-title-header {
         font-size: 18px;
         color: rgb(63, 61, 61);
@@ -344,4 +338,83 @@
         -webkit-transform: scale(1.1);
         -moz-transform: scale(1.1);
         -o-transform: scale(1.1);
+    }
+    
+    .card {
+        background: linear-gradient(to left, rgb(204, 235, 236), rgb(232, 241, 243));
+        height: 296px;
+        margin-top: -70px;
+        margin-left: 650px;
+        margin-right: 265px;
+        border-radius: 20px;
+        opacity: 0.6;
+    }
+    
+    .card:hover {
+        box-shadow: 0 1px 4px rgba(0, 0, 0, .3), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+    }
+    
+    .img-card-visa {
+        -webkit-filter: grayscale(86%);
+        -moz-filter: grayscale(86%);
+        -ms-filter: grayscale(86%);
+        -o-filter: grayscale(86%);
+        filter: grayscale(86%);
+        filter: gray;
+        margin-left: 334px;
+        opacity: 0.6;
+    }
+    
+    .img-card-chip {
+        -webkit-filter: grayscale(56%);
+        -moz-filter: grayscale(56%);
+        -ms-filter: grayscale(56%);
+        -o-filter: grayscale(56%);
+        filter: grayscale(56%);
+        filter: gray;
+        margin-left: 30px;
+        opacity: 0.6;
+        margin-top: -34px;
+    }
+    
+    .h3-card-number {
+        margin-left: 31px;
+        font-size: 22px;
+        margin-top: 10px;
+        opacity: 0.6;
+    }
+    
+    .h6-card-text {
+        margin-left: 31px;
+        font-size: 11px;
+        margin-top: -10px;
+        opacity: 0.6;
+    }
+    
+    .h6-card-good-thru {
+        margin-left: 96px;
+        font-size: 10px;
+        margin-top: -40px;
+        opacity: 0.6;
+    }
+    
+    .h6-card-month {
+        margin-left: 160px;
+        font-size: 10px;
+        margin-top: -48px;
+        opacity: 0.6;
+    }
+    
+    .h4-card-month-number {
+        margin-left: 160px;
+        font-size: 20px;
+        margin-top: -24px;
+        opacity: 0.6;
+    }
+    
+    .h3-card-ali-sayed {
+        margin-left: 31px;
+        font-size: 17px;
+        margin-top: -10px;
+        opacity: 0.6;
     }
