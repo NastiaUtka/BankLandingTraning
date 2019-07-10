@@ -429,7 +429,7 @@
     }
     
     .h4-content-smart-business {
-        margin-left: 550px;
+        margin-left: 600px;
         margin-top: 110px;
         font-size: 18px;
         color: rgb(63, 61, 61);
@@ -439,30 +439,30 @@
         margin-top: -10px;
         color: rgb(44, 43, 43);
         font-size: 29px;
-        margin-left: 476px
+        margin-left: 520px
     }
     
     .p-content-business-info-text {
         margin-top: 10px;
-        margin-left: 400px;
+        margin-left: 450px;
         color: rgb(75, 74, 74);
         font-size: 15px;
         opacity: 0.6;
     }
     
     .img-fast-secure {
-        margin-left: 300px;
+        margin-left: 280px;
     }
     
     .h4-proposals-fast-secure {
-        margin-left: 307px;
+        margin-left: 280px;
         margin-top: -2px;
         font-size: 18px;
         color: rgb(63, 61, 61);
     }
     
     .p-proposals-fast-secure {
-        margin-left: 260px;
+        margin-left: 240px;
         color: rgb(75, 74, 74);
         font-size: 15px;
         opacity: 0.6;
@@ -470,20 +470,20 @@
     }
     
     .img-transection-reports {
-        margin-left: 550px;
+        margin-left: 510px;
         position: absolute;
         margin-top: -190px;
     }
     
     .h4-proposals-transection-reports {
-        margin-left: 530px;
+        margin-left: 490px;
         margin-top: -103px;
         font-size: 18px;
         color: rgb(63, 61, 61);
     }
     
     .p-proposals-transection-reports {
-        margin-left: 510px;
+        margin-left: 470px;
         color: rgb(75, 74, 74);
         font-size: 15px;
         opacity: 0.6;
@@ -491,20 +491,20 @@
     }
     
     .img-cash {
-        margin-left: 770px;
+        margin-left: 747px;
         position: absolute;
         margin-top: -175px;
     }
     
     .h4-proposals-cash {
-        margin-left: 730px;
+        margin-left: 720px;
         margin-top: -103px;
         font-size: 18px;
         color: rgb(63, 61, 61);
     }
     
     .p-proposals-cash {
-        margin-left: 730px;
+        margin-left: 710px;
         color: rgb(75, 74, 74);
         font-size: 15px;
         opacity: 0.6;
