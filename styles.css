@@ -24,6 +24,7 @@
         margin-left: 620px;
         color: rgb(75, 74, 74);
         font-size: 13px;
+        opacity: 0.6;
     }
     
     .h6-home:hover {
@@ -40,6 +41,7 @@
         margin-left: 720px;
         color: rgb(75, 74, 74);
         font-size: 13px;
+        opacity: 0.6;
     }
     
     .h6-account:hover {
@@ -56,6 +58,7 @@
         margin-left: 820px;
         color: rgb(75, 74, 74);
         font-size: 13px;
+        opacity: 0.6;
     }
     
     .h6-features:hover {
@@ -72,6 +75,7 @@
         margin-left: 920px;
         color: rgb(75, 74, 74);
         font-size: 13px;
+        opacity: 0.6;
     }
     
     .h6-developers:hover {
@@ -88,6 +92,7 @@
         margin-left: 1028px;
         color: rgb(75, 74, 74);
         font-size: 13px;
+        opacity: 0.6;
     }
     
     .h6-pricing:hover {
@@ -104,6 +109,7 @@
         margin-left: 1120px;
         color: rgb(75, 74, 74);
         font-size: 13px;
+        opacity: 0.6;
     }
     
     .h6-support:hover {
@@ -162,6 +168,7 @@
         margin-left: 590px;
         color: rgb(75, 74, 74);
         font-size: 15px;
+        opacity: 0.6;
     }
     
     input {
@@ -205,6 +212,7 @@
     }
     
     .partners {
+        opacity: 0.6;
         -webkit-filter: grayscale(86%);
         -moz-filter: grayscale(86%);
         -ms-filter: grayscale(86%);
@@ -317,6 +325,7 @@
         color: rgb(75, 74, 74);
         font-size: 15px;
         position: absolute;
+        opacity: 0.6;
     }
     
     .butt-get-started-content {
@@ -417,4 +426,108 @@
         font-size: 17px;
         margin-top: -10px;
         opacity: 0.6;
+    }
+    
+    .h4-content-smart-business {
+        margin-left: 550px;
+        margin-top: 110px;
+        font-size: 18px;
+        color: rgb(63, 61, 61);
+    }
+    
+    .h1-content-core-business-motives {
+        margin-top: -10px;
+        color: rgb(44, 43, 43);
+        font-size: 29px;
+        margin-left: 476px
+    }
+    
+    .p-content-business-info-text {
+        margin-top: 10px;
+        margin-left: 400px;
+        color: rgb(75, 74, 74);
+        font-size: 15px;
+        opacity: 0.6;
+    }
+    
+    .img-fast-secure {
+        margin-left: 300px;
+    }
+    
+    .h4-proposals-fast-secure {
+        margin-left: 307px;
+        margin-top: -2px;
+        font-size: 18px;
+        color: rgb(63, 61, 61);
+    }
+    
+    .p-proposals-fast-secure {
+        margin-left: 260px;
+        color: rgb(75, 74, 74);
+        font-size: 15px;
+        opacity: 0.6;
+        margin-top: -10px;
+    }
+    
+    .img-transection-reports {
+        margin-left: 550px;
+        position: absolute;
+        margin-top: -190px;
+    }
+    
+    .h4-proposals-transection-reports {
+        margin-left: 530px;
+        margin-top: -103px;
+        font-size: 18px;
+        color: rgb(63, 61, 61);
+    }
+    
+    .p-proposals-transection-reports {
+        margin-left: 510px;
+        color: rgb(75, 74, 74);
+        font-size: 15px;
+        opacity: 0.6;
+        margin-top: -10px;
+    }
+    
+    .img-cash {
+        margin-left: 770px;
+        position: absolute;
+        margin-top: -175px;
+    }
+    
+    .h4-proposals-cash {
+        margin-left: 730px;
+        margin-top: -103px;
+        font-size: 18px;
+        color: rgb(63, 61, 61);
+    }
+    
+    .p-proposals-cash {
+        margin-left: 730px;
+        color: rgb(75, 74, 74);
+        font-size: 15px;
+        opacity: 0.6;
+        margin-top: -10px;
+    }
+    
+    .img-savings-vault {
+        margin-left: 975px;
+        position: absolute;
+        margin-top: -186px;
+    }
+    
+    .h4-savings-vault {
+        margin-left: 970px;
+        margin-top: -103px;
+        font-size: 18px;
+        color: rgb(63, 61, 61);
+    }
+    
+    .p-proposals-savings-vault {
+        margin-left: 940px;
+        color: rgb(75, 74, 74);
+        font-size: 15px;
+        opacity: 0.6;
+        margin-top: -10px;
     }
